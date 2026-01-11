@@ -122,9 +122,6 @@ Full analysis, modeling, and prediction workflow:
 Interactive visual summary and attrition trend forecast:  
 ➡️ [https://public.tableau.com/app/profile/krodsa/viz/EmployeeAttritionDashboard_17344953568520/AttritionDashboard](https://public.tableau.com/views/EmployeeAttritionDashboard_17344953568520/HREmployeeAttritionDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
-### 📁 GitHub Repository  
-➡️ https://github.com/krodsa/Employee-Attrition-Analysis  
-
 ---
 
 ## 📂 Dataset  
